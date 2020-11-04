@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI Count</string>
+    <string name="bmi_result">BMI值</string>
+</resources>
